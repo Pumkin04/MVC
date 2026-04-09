@@ -1,0 +1,18 @@
+{
+    "name": "sonle/app",
+    "autoload": {
+        "psr-4": {
+            "Sonle\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tomnyson",
+            "email": "tabletkindfire@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "jenssegers/blade": "^1.4"
+    }
+}
